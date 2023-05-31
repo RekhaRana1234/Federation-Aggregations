@@ -1,1 +1,0 @@
-# trim python code
