@@ -4,6 +4,6 @@
 
 
 
-Small version of the dataset is avialable in this folder, which could be used directly.
+Small version of the dataset is available in this folder, which could be used directly.
 - Train dataset
 - Test dataset
