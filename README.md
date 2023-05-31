@@ -3,11 +3,15 @@ This repository contains the federated learning aggregation techniques
 
 
 ## Table of contents
+* [Dataset](#dataset)
 * [Non Federated Learning](#non-federated-learning)
 * [Normal Aggregators](#normal-aggregators)
 * [Privacy Preserving Aggregators](#privacy-preserving-aggregators)
 * [Robust Aggregators](#robust-aggregators)
 
+
+## Dataset
+- GEANT dataset used in this proof-of-concept is avaiable in the dataset folder.
 
 ## Non Federated learning
 - Simple RNN based machine learning modeling is performed without federated learning inclusion.
