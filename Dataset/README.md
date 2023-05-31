@@ -5,6 +5,5 @@
 
 
 Small version of the dataset is avialable in this folder, which could be used directly.
-- Full dataset
 - Train dataset
 - Test dataset
