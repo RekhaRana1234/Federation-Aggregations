@@ -14,13 +14,13 @@ This repository contains the federated learning aggregation techniques
 
 
 ## Normal Aggregators
-- Federated Average
-- Federated Proxy
+- Federated Average (FedAvg)
+- Federated Proxy (FedProx)
 - Federated Stochastic Gradient Descent (FedSGD)
 
 ## Privacy Preserving Aggregators
-- Federated learning with Differential Privacy
-- Federated learning with Homomorphic encryption
+- Federated learning with Differential Privacy (FL-DP)
+- Federated learning with Homomorphic encryption (FL-HE)
 
 ## Robust Aggregators
 - Trimmed Mean
