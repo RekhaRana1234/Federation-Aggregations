@@ -3,8 +3,13 @@ This repository contains the federated learning aggregation techniques
 
 
 ## Table of contents
-* [Aggregators](#aggregators)
+* [Non Federated Learning](#non-federated learning)
+* [Normal Aggregators](#Normal-aggregators)
+* [Privacy Preserving Aggregators](#Privacy-Preserving-aggregators)
+* [Robust Aggregators](#Robust-aggregators)
 
+
+## Non Federated learning
 
 
 ## Aggregators
